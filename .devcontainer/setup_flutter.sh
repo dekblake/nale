@@ -18,4 +18,4 @@ export PATH="$PATH:/opt/flutter/bin"
 flutter precache --web
 flutter config --enable-web
 
-flutter doctor
+flutter doctor 
